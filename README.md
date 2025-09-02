@@ -84,3 +84,5 @@ PUT /api/products/:id → Edita un producto
 
 DELETE /api/products/:id → Elimina un prod
 <img width="1185" height="867" alt="image" src="https://github.com/user-attachments/assets/b7032a3b-31ab-4de7-ab28-4bc743dc6c18" />
+<img width="733" height="472" alt="image" src="https://github.com/user-attachments/assets/114b070a-b052-4289-8a31-ffe79e4b721c" />
+
