@@ -1,4 +1,4 @@
-import http from './http' // asumo que ya tienes axios instanciado aquí
+import http from './http'
 
 export const productService = {
   getProducts: () => http.get('/products').then((r) => r.data),
